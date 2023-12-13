@@ -45,44 +45,43 @@ This type of counter is normally referred to as a Down Counter, (CTD). In a bina
 
 
 4-bit Count Down Counter
-### Procedure
-/* write all the steps invloved */
+### Procedure:
+1.Open a new project using Quartus II.
+2.Declare the inputs and outputs inside module projname().
+3.Set the reset value using register.
+4.Use commands like begin and end to stimulate the counter.
+5.For Up counter increment the count and for Down counter decrement the count.
+6.End the verilog programming.
 
-
-
-### PROGRAM 
-/*
+### PROGRAM:
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
-*/
+
+Developed by: SANJAI L
+
+RegisterNumber: 23014237 
+
+## DOWNCOUNTER:
+![downcounter code](https://github.com/dharshan7200/Exp-7-Synchornous-counters-/assets/138850116/af37ef9c-e7d3-4095-8418-aef888fada03)
+## UPCOUNTER:
+![upcounter code](https://github.com/dharshan7200/Exp-7-Synchornous-counters-/assets/138850116/a834d0cd-19c1-47f5-9441-3e302c632629)
+## RTL viewer:
+## DOWN COUNTER:
+![DOWNCOUNTER gate](https://github.com/dharshan7200/Exp-7-Synchornous-counters-/assets/138850116/a149d880-49da-46a2-b078-01842a89ab4c)
+## UPCOUNTER:
+![upcounter gate](https://github.com/dharshan7200/Exp-7-Synchornous-counters-/assets/138850116/c717b4ee-ca74-4f87-bd7c-5f2b48a67bcb)
+### TIMING DIGRAM:
+## DOWN COUNTER:
+![downcounter wave](https://github.com/dharshan7200/Exp-7-Synchornous-counters-/assets/138850116/9eafa68f-191f-4fa8-b29e-5dd9d5f62776)
+## UP COUNTER:
+![upcounter wave](https://github.com/dharshan7200/Exp-7-Synchornous-counters-/assets/138850116/ba3bd18f-0364-4839-9399-38a14c8fa81c)
+### TRUTH TABLE:
+## DOWN COUNTER:
+![image](https://github.com/dharshan7200/Exp-7-Synchornous-counters-/assets/138850116/83fdc0d1-5e9f-4cc5-ae51-f40632732d4f)
+## UP COUNTER:
+![image](https://github.com/dharshan7200/Exp-7-Synchornous-counters-/assets/138850116/138ccadb-fe7d-4159-a20b-08670da5680d)
+
+### RESULTS :
+Thus Synchornous counters up counter and down counter circuit are studied and the truth table for different logic gates are verified.
 
 
 
-
-
-
-### RTL LOGIC UP COUNTER AND DOWN COUNTER  
-
-
-
-
-
-
-
-
-
-### TIMING DIGRAMS FOR COUNTER  
-
-
-
-
-
-### TRUTH TABLE 
-
-
-
-
-
-
-### RESULTS 
