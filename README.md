@@ -61,24 +61,32 @@ Developed by: SANJAI L
 RegisterNumber: 23014237 
 
 ## DOWNCOUNTER:
-![downcounter code](https://github.com/dharshan7200/Exp-7-Synchornous-counters-/assets/138850116/af37ef9c-e7d3-4095-8418-aef888fada03)
+![image](https://github.com/SanjaiOfficial/Exp-7-Synchornous-counters-/assets/151763180/c54d138b-770e-4afa-a30d-ebc705054f72)
+
 ## UPCOUNTER:
-![upcounter code](https://github.com/dharshan7200/Exp-7-Synchornous-counters-/assets/138850116/a834d0cd-19c1-47f5-9441-3e302c632629)
+![image](https://github.com/SanjaiOfficial/Exp-7-Synchornous-counters-/assets/151763180/04439ef9-0ca5-4c98-92a9-50212151ab0a)
+
 ## RTL viewer:
 ## DOWN COUNTER:
-![DOWNCOUNTER gate](https://github.com/dharshan7200/Exp-7-Synchornous-counters-/assets/138850116/a149d880-49da-46a2-b078-01842a89ab4c)
+![image](https://github.com/SanjaiOfficial/Exp-7-Synchornous-counters-/assets/151763180/bb04906e-1ebf-4126-9ab6-97af56f1ecbb)
+
 ## UPCOUNTER:
-![upcounter gate](https://github.com/dharshan7200/Exp-7-Synchornous-counters-/assets/138850116/c717b4ee-ca74-4f87-bd7c-5f2b48a67bcb)
+![image](https://github.com/SanjaiOfficial/Exp-7-Synchornous-counters-/assets/151763180/b4d3d24c-2917-4baa-9ffa-b611c3628fbe)
+
 ### TIMING DIGRAM:
 ## DOWN COUNTER:
-![downcounter wave](https://github.com/dharshan7200/Exp-7-Synchornous-counters-/assets/138850116/9eafa68f-191f-4fa8-b29e-5dd9d5f62776)
+![image](https://github.com/SanjaiOfficial/Exp-7-Synchornous-counters-/assets/151763180/e3c8379e-4c98-4fd3-b159-bcdce903fd19)
+
 ## UP COUNTER:
-![upcounter wave](https://github.com/dharshan7200/Exp-7-Synchornous-counters-/assets/138850116/ba3bd18f-0364-4839-9399-38a14c8fa81c)
+![image](https://github.com/SanjaiOfficial/Exp-7-Synchornous-counters-/assets/151763180/1ce236b7-1a42-4a36-bbb5-1fcac442925d)
+
 ### TRUTH TABLE:
 ## DOWN COUNTER:
-![image](https://github.com/dharshan7200/Exp-7-Synchornous-counters-/assets/138850116/83fdc0d1-5e9f-4cc5-ae51-f40632732d4f)
+![image](https://github.com/SanjaiOfficial/Exp-7-Synchornous-counters-/assets/151763180/1e9011b3-11fc-4ce1-9669-ee3abbff3f6b)
+
 ## UP COUNTER:
-![image](https://github.com/dharshan7200/Exp-7-Synchornous-counters-/assets/138850116/138ccadb-fe7d-4159-a20b-08670da5680d)
+![image](https://github.com/SanjaiOfficial/Exp-7-Synchornous-counters-/assets/151763180/c318bdaf-87ac-43da-92a9-8a26af6570d0)
+
 
 ### RESULTS :
 Thus Synchornous counters up counter and down counter circuit are studied and the truth table for different logic gates are verified.
